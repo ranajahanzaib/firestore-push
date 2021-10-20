@@ -1,10 +1,14 @@
 {
-  "name": "unique-npm-pkg",
-  "version": "1.0.0",
+  "name": "firestore-push",
+  "version": "0.0.1",
   "private": false,
   "license": "MIT",
   "authors": "ranajahanzaib",
   "files": [
     "lib"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranajahanzaib/react-library-template.git"
+  }
 }
