@@ -1,6 +1,6 @@
 {
   "name": "firestore-push",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "license": "MIT",
   "authors": "ranajahanzaib",
@@ -9,6 +9,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ranajahanzaib/react-library-template.git"
+    "url": "git+https://github.com/ranajahanzaib/firestore-push.git"
   }
 }
